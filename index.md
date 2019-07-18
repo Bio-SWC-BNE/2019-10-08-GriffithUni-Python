@@ -11,7 +11,7 @@ humandate: "6th-8th Aug"    # human-readable dates for the workshop (e.g., "Feb 
 humantime: "9am to 5pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-08-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-08-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["To come"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Kim Keogh", "Brett Parker"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["To come"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hackyhour@griffith.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -30,7 +30,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 
 <br>
-<h3>This class is not yet open however if you would like to be notified when available, please complete this form: <a href="http://goo.gl/forms/OzcK6M9XOeN8ifr52">Interested in programming classes</a>.</h3><br><br>
+<iframe width="800px" height= "600px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMzdURTVEREs4TTlMTkNOR1hXTVkxOFZMTyQlQCN0PWcu&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
 <h2 id="general">General Information</h2>
